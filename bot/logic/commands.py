@@ -1,8 +1,9 @@
-import requests, os, datetime, deepl
+import requests, datetime, deepl
 from bs4 import BeautifulSoup
 from telegram import Update, ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import ContextTypes
-from log import log_message
+from bot.logic.log import log_message
+from config.settings import deepl_token, kinopoisk_unofficial_token, kinopoisk_dev_token, weather_token
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg = "Привет! Доступные команды:\n" \
@@ -18,7 +19,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await log_message(update, f"User: {update.message.text}\nBot: {msg}")
     
 async def translate(text, target_lang='ru'):
-    deepl_token = os.getenv("DEEPL_TRANSLATE_API_KEY")
     deepl_client = deepl.DeepLClient(deepl_token)
     try:
         result = deepl_client.translate_text(text, target_lang=target_lang)
@@ -32,7 +32,7 @@ async def get_posters(film_id):
 async def get_details(film_id):
     url = f"https://api.kinopoisk.dev/v1.4/movie/{film_id}"
     headers = {
-        'X-API-KEY': os.getenv("kinopoisk_dev_API_KEY"),
+        'X-API-KEY': kinopoisk_dev_token,
         'Content-Type': 'application/json'
     }
     try:
@@ -70,14 +70,14 @@ async def weather(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await log_message(update, f"User: {update.message.text}\nBot: {msg}")
         return
     city = ' '.join(context.args)
-    api_key = os.getenv("OPEN_WEATHER_API")
-    url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&lang=ru&units=metric"
+    url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={weather_token}&lang=ru&units=metric"
     try:
         resp = requests.get(url)
         if resp.status_code == 200:
             data = resp.json()
             msg = f"Погода в {city}:\n" \
-                  f"{data['weather'][0]['description'].capitalize()}\n🌡 Температура: *{data['main']['temp']}°C*\n🌡 Ощущается как *{data['main']['feels_like']}°C*\n\n" \
+                  f"{data['weather'][0]['description'].capitalize()}\n🌡 Температура: *{data['main']['temp']}°C*\n" \
+                  f"🌡 Ощущается как *{data['main']['feels_like']}°C*\n\n" \
                   f"💦 Влажность: *{data['main']['humidity']}%*\n🌫 Давление: *{data['main']['pressure']} гПа*\n\n" \
                   f"💨 Скорость ветра: *{data['wind']['speed']} м/с*\n↗️ Направление: *{data['wind']['deg']}°*"
             icon_id = data['weather'][0]['icon']
@@ -111,11 +111,12 @@ async def movie(update: Update, context: ContextTypes.DEFAULT_TYPE):
             full_name = film_content.select_one('.info .gray').text.strip()
             rating_text = rating.text.strip() if rating else "Нет рейтинга"
             film_id = film_content.select_one('.info .name a')['href'].split('/')[2]
+            poster = await get_posters(film_id)
+            
             msg = f"{title} ({year})\n{full_name}.\n\n" \
                   f"*Рейтинг: {rating_text}/10*⭐️\n\n" \
                   f"Описание:\n{await get_details(film_id)}\n\n" \
                   f"[Ссылочка *Тык*](https://www.kinopoisk.ru{film_content.select_one('.info .name a')['href']})"
-            poster = await get_posters(film_id)
             if poster:
                 await update.message.reply_photo(photo=poster, caption=msg, parse_mode="Markdown")
             else:
@@ -148,7 +149,10 @@ async def send_most_wanted(update, context, page, edit):
     month = await get_actual_month()
     url = f"https://kinopoiskapiunofficial.tech/api/v2.2/films/premieres?year={year}&month={month}"
     try:
-        resp = requests.get(url, headers={'X-API-KEY': os.getenv("KINOPISK_API_KEY"), 'Content-Type': 'application/json'})
+        resp = requests.get(url, headers={
+                'X-API-KEY': kinopoisk_unofficial_token,
+                'Content-Type': 'application/json'
+            })
         if resp.status_code == 200:
             data = resp.json()
             items = data['items']

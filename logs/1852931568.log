@@ -507,3 +507,489 @@ War of the Worlds, 116 мин.
 На Землю нападают высокоразвитые пришельцы. Пока армия ведёт ожесточённые бои с захватчиками, обычный семьянин Рэй стремится выжить, чтобы любой ценой спасти своих детей.
 
 [Ссылочка *Тык*](https://www.kinopoisk.ru/film/81289/sr/1/)
+2025-06-10 16:53:51,743 - [user_id: 1852931568]:User: /start
+Bot: Привет! Доступные команды:
+Вспомогательные:
+  /weather <город> — Прогноз погоды
+  /map <локация> — Координаты локации + карта
+  /translate <текст> — Перевод текста на русский
+  /affirmation — Случайная аффирмация
+Основные:
+  /movie <название> — Подробнее о фильме
+  /most_wanted — Ожидаемые фильмы месяца
+2025-06-10 16:54:18,424 - [user_id: 1852931568]:User: /weather Кемерово
+Bot: Погода в Кемерово:
+Переменная облачность
+🌡 Температура: *24.83°C*
+🌡 Ощущается как *24.44°C*
+
+💦 Влажность: *41%*
+🌫 Давление: *1015 гПа*
+
+💨 Скорость ветра: *3 м/с*
+↗️ Направление: *260°*
+2025-06-10 16:54:46,206 - [user_id: 1852931568]:User: /map кинотеатр космос, кемерово
+Bot: Координаты кинотеатр космос, кемерово: 55.3465561, 86.0815820
+2025-06-10 16:55:10,673 - [user_id: 1852931568]:User: /affirmation
+Bot: You'll find a way
+
+-=-=-=-=-На русском-=-=-=-=-
+
+Вы найдете способ
+2025-06-10 16:55:13,270 - [user_id: 1852931568]:User: /help
+Bot: Привет! Доступные команды:
+Вспомогательные:
+  /weather <город> — Прогноз погоды
+  /map <локация> — Координаты локации + карта
+  /translate <текст> — Перевод текста на русский
+  /affirmation — Случайная аффирмация
+Основные:
+  /movie <название> — Подробнее о фильме
+  /most_wanted — Ожидаемые фильмы месяца
+2025-06-10 16:55:27,256 - [user_id: 1852931568]:User: /translate You'll find a way
+Bot: Источник:
+You'll find a way
+
+Перевод:
+Вы найдете способ
+2025-06-10 16:55:48,211 - [user_id: 1852931568]:User: /most_wanted
+Bot: Фильмы месяца (стр. 1/6):
+
+🎬 [Ateez World Tour [Towards the Light: Will to Power] в Сеуле](https://www.kinopoisk.ru/film/8055465/) (2024) 126 мин.
+📆 Дата премьеры: 2025-06-04
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8055465/afisha/city/1/)
+
+🎬 [Ненависть](https://www.kinopoisk.ru/film/9448/) (1995) 98 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/9448/afisha/city/1/)
+
+🎬 [Балерина](https://www.kinopoisk.ru/film/1047492/) (2025) 124 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/1047492/afisha/city/1/)
+
+🎬 [Гадкая сестра](https://www.kinopoisk.ru/film/7229988/) (2025) 109 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7229988/afisha/city/1/)
+
+🎬 [Жизнь Чака](https://www.kinopoisk.ru/film/5406956/) (2024) 110 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5406956/afisha/city/1/)
+
+🎬 [Копы в законе](https://www.kinopoisk.ru/film/7411831/) (2025) 87 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7411831/afisha/city/1/)
+
+🎬 [Поле чудес](https://www.kinopoisk.ru/film/6062449/) (2025) 90 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6062449/afisha/city/1/)
+
+🎬 [Заклятие. Демон внутри](https://www.kinopoisk.ru/film/1292096/) (2024) 88 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/1292096/afisha/city/1/)
+
+🎬 [Самозванцы](https://www.kinopoisk.ru/film/7526672/) (2024) 90 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7526672/afisha/city/1/)
+
+🎬 [Джамбо и маленькое привидение](https://www.kinopoisk.ru/film/6638229/) (2025) 102 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6638229/afisha/city/1/)
+
+
+2025-06-10 16:56:24,857 - [user_id: 1852931568]:User: /most_wanted
+Bot: Фильмы месяца (стр. 1/6):
+
+🎬 [Ateez World Tour [Towards the Light: Will to Power] в Сеуле](https://www.kinopoisk.ru/film/8055465/) (2024) 126 мин.
+📆 Дата премьеры: 2025-06-04
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8055465/afisha/city/1/)
+
+🎬 [Ненависть](https://www.kinopoisk.ru/film/9448/) (1995) 98 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/9448/afisha/city/1/)
+
+🎬 [Балерина](https://www.kinopoisk.ru/film/1047492/) (2025) 124 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/1047492/afisha/city/1/)
+
+🎬 [Гадкая сестра](https://www.kinopoisk.ru/film/7229988/) (2025) 109 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7229988/afisha/city/1/)
+
+🎬 [Жизнь Чака](https://www.kinopoisk.ru/film/5406956/) (2024) 110 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5406956/afisha/city/1/)
+
+🎬 [Копы в законе](https://www.kinopoisk.ru/film/7411831/) (2025) 87 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7411831/afisha/city/1/)
+
+🎬 [Поле чудес](https://www.kinopoisk.ru/film/6062449/) (2025) 90 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6062449/afisha/city/1/)
+
+🎬 [Заклятие. Демон внутри](https://www.kinopoisk.ru/film/1292096/) (2024) 88 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/1292096/afisha/city/1/)
+
+🎬 [Самозванцы](https://www.kinopoisk.ru/film/7526672/) (2024) 90 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7526672/afisha/city/1/)
+
+🎬 [Джамбо и маленькое привидение](https://www.kinopoisk.ru/film/6638229/) (2025) 102 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6638229/afisha/city/1/)
+
+
+2025-06-10 16:56:34,331 - [user_id: 1852931568]:User: 
+Bot: Фильмы месяца (стр. 2/6):
+
+🎬 [Сны о ней](https://www.kinopoisk.ru/film/6792125/) (2024) 113 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6792125/afisha/city/1/)
+
+🎬 [Моя мама — волшебница](https://www.kinopoisk.ru/film/6122292/) (2025) 102 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6122292/afisha/city/1/)
+
+🎬 [Суровая жизнь](https://www.kinopoisk.ru/film/8052709/) (2025) 165 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8052709/afisha/city/1/)
+
+🎬 [Арт-лекторий: Тайная жизнь Уффици](https://www.kinopoisk.ru/film/4558757/) (2021) 96 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/4558757/afisha/city/1/)
+
+🎬 [Хаусфул-5](https://www.kinopoisk.ru/film/1202005/) (2025) 164 мин.
+📆 Дата премьеры: 2025-06-06
+[Купить билет 🎟](https://www.kinopoisk.ru/film/1202005/afisha/city/1/)
+
+🎬 [TheatreHD: Курентзис: Милосердие Тита](https://www.kinopoisk.ru/film/8014799/) (2017) 179 мин.
+📆 Дата премьеры: 2025-06-11
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8014799/afisha/city/1/)
+
+🎬 [Как стать миллионером](https://www.kinopoisk.ru/film/7165623/) (2024) 91 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7165623/afisha/city/1/)
+
+🎬 [Артек. Сквозь столетия](https://www.kinopoisk.ru/film/5203768/) (2025) 100 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5203768/afisha/city/1/)
+
+🎬 [Творение богов: Битва с демонами](https://www.kinopoisk.ru/film/1200005/) (2025) 144 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/1200005/afisha/city/1/)
+
+🎬 [Синистер. Из тьмы](https://www.kinopoisk.ru/film/6022226/) (2024) 95 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6022226/afisha/city/1/)
+
+
+2025-06-10 16:56:40,362 - [user_id: 1852931568]:User: 
+Bot: Фильмы месяца (стр. 3/6):
+
+🎬 [Три богатыря. Ни дня без подвига 2](https://www.kinopoisk.ru/film/7527789/) (2025) None мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7527789/afisha/city/1/)
+
+🎬 [Притворись моим мужем](https://www.kinopoisk.ru/film/5428538/) (2025) None мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5428538/afisha/city/1/)
+
+🎬 [Больше чем футбол](https://www.kinopoisk.ru/film/5359960/) (2025) 106 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5359960/afisha/city/1/)
+
+🎬 [На деревню дедушке](https://www.kinopoisk.ru/film/6441870/) (2025) 90 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6441870/afisha/city/1/)
+
+🎬 [Ровесник](https://www.kinopoisk.ru/film/5134526/) (2024) 90 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5134526/afisha/city/1/)
+
+🎬 [Торнадо](https://www.kinopoisk.ru/film/7037317/) (2025) 90 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7037317/afisha/city/1/)
+
+🎬 [Память сердец](https://www.kinopoisk.ru/film/6792126/) (2025) 99 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6792126/afisha/city/1/)
+
+🎬 [Астрал. Остров проклятых](https://www.kinopoisk.ru/film/6095177/) (2024) 95 мин.
+📆 Дата премьеры: 2025-06-12
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6095177/afisha/city/1/)
+
+🎬 [МУЛЬТ в кино. Выпуск №183. Летние затеи](https://www.kinopoisk.ru/film/8124966/) (2025) 44 мин.
+📆 Дата премьеры: 2025-06-14
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8124966/afisha/city/1/)
+
+🎬 [Театр в кино: Травиата](https://www.kinopoisk.ru/film/7992895/) (2021) 125 мин.
+📆 Дата премьеры: 2025-06-18
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7992895/afisha/city/1/)
+
+
+2025-06-10 16:56:50,927 - [user_id: 1852931568]:User: 
+Bot: Фильмы месяца (стр. 4/6):
+
+🎬 [Сказания Земноморья](https://www.kinopoisk.ru/film/259351/) (2006) 115 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/259351/afisha/city/1/)
+
+🎬 [Игра в кальмара: Перезагрузка](https://www.kinopoisk.ru/film/6581523/) (2024) 125 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6581523/afisha/city/1/)
+
+🎬 [Материалистка](https://www.kinopoisk.ru/film/5446941/) (2025) 116 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5446941/afisha/city/1/)
+
+🎬 [Лига теней](https://www.kinopoisk.ru/film/4922265/) (2025) 104 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/4922265/afisha/city/1/)
+
+🎬 [Хищник. Дожить до рассвета](https://www.kinopoisk.ru/film/5144002/) (2024) 83 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5144002/afisha/city/1/)
+
+🎬 [Кровавый урожай](https://www.kinopoisk.ru/film/6216872/) (2025) 96 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6216872/afisha/city/1/)
+
+🎬 [Школа мистера Пингвина](https://www.kinopoisk.ru/film/5906586/) (2024) 111 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5906586/afisha/city/1/)
+
+🎬 [Кроссы](https://www.kinopoisk.ru/film/1355431/) (2025) 93 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/1355431/afisha/city/1/)
+
+🎬 [Евгений Телегин](https://www.kinopoisk.ru/film/5517578/) (2024) 100 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5517578/afisha/city/1/)
+
+🎬 [Здравствуй, грусть](https://www.kinopoisk.ru/film/6355102/) (2024) 110 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6355102/afisha/city/1/)
+
+
+2025-06-10 16:57:22,331 - [user_id: 1852931568]:User: 
+Bot: Фильмы месяца (стр. 5/6):
+
+🎬 [Белый пароход](https://www.kinopoisk.ru/film/5018497/) (2024) 90 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5018497/afisha/city/1/)
+
+🎬 [Кунг-фу кот](https://www.kinopoisk.ru/film/6155505/) (2024) 97 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6155505/afisha/city/1/)
+
+🎬 [Слепой меч. Око за око](https://www.kinopoisk.ru/film/5449057/) (2024) 90 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5449057/afisha/city/1/)
+
+🎬 [Дандадан: Злой глаз](https://www.kinopoisk.ru/film/8000227/) (2025) 93 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8000227/afisha/city/1/)
+
+🎬 [Магия четырёх стихий](https://www.kinopoisk.ru/film/7302977/) (2025) 100 мин.
+📆 Дата премьеры: 2025-06-19
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7302977/afisha/city/1/)
+
+🎬 [TheatreHD: Оперный фестиваль Россини: Синьор Брускино](https://www.kinopoisk.ru/film/8014800/) (2021) 87 мин.
+📆 Дата премьеры: 2025-06-22
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8014800/afisha/city/1/)
+
+🎬 [TheatreHD: Асмик Григорян: Гала-концерт в летнюю ночь](https://www.kinopoisk.ru/film/7991640/) (2023) 89 мин.
+📆 Дата премьеры: 2025-06-25
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7991640/afisha/city/1/)
+
+🎬 [Акира](https://www.kinopoisk.ru/film/8224/) (1987) 124 мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8224/afisha/city/1/)
+
+🎬 [Святая ночь. Охотники на демонов](https://www.kinopoisk.ru/film/4469658/) (2025) 92 мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/4469658/afisha/city/1/)
+
+🎬 [Ритуал](https://www.kinopoisk.ru/film/6357721/) (2025) 98 мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6357721/afisha/city/1/)
+
+
+2025-06-10 16:57:36,091 - [user_id: 1852931568]:User: 
+Bot: Фильмы месяца (стр. 6/6):
+
+🎬 [Великая Лилиан Холл](https://www.kinopoisk.ru/film/5613194/) (2024) 110 мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5613194/afisha/city/1/)
+
+🎬 [Маленький шеф](https://www.kinopoisk.ru/film/6147244/) (2025) None мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6147244/afisha/city/1/)
+
+🎬 [Шпионская свадьба](https://www.kinopoisk.ru/film/5394738/) (2025) None мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5394738/afisha/city/1/)
+
+🎬 [Арлан. Решающий раунд](https://www.kinopoisk.ru/film/6573394/) (2024) None мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6573394/afisha/city/1/)
+
+🎬 [Смерть в лифте](https://www.kinopoisk.ru/film/6764003/) (2024) 74 мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6764003/afisha/city/1/)
+
+🎬 [Что знает Мариэль](https://www.kinopoisk.ru/film/7239511/) (2025) 86 мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7239511/afisha/city/1/)
+
+🎬 [Твигги](https://www.kinopoisk.ru/film/5212271/) (2024) 94 мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5212271/afisha/city/1/)
+
+🎬 [Чингис-Хан](https://www.kinopoisk.ru/film/8123009/) (2025) 61 мин.
+📆 Дата премьеры: 2025-06-26
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8123009/afisha/city/1/)
+
+🎬 [TheatreHD: Кристиан Тилеманн: Тристан и Изольда](https://www.kinopoisk.ru/film/7993218/) (2024) 248 мин.
+📆 Дата премьеры: 2025-06-28
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7993218/afisha/city/1/)
+
+
+2025-06-10 16:58:26,748 - [user_id: 1852931568]:User: /movie Чингис-Хан
+Bot: Чингис-Хан (2025)
+61 мин.
+
+*Рейтинг: Нет рейтинга/10*⭐️
+
+Описание:
+История жизни Чингисхана — от юности до покорения половины мира.
+
+[Ссылочка *Тык*](https://www.kinopoisk.ru/film/8123009/sr/1/)
+2025-06-10 18:19:45,734 - [user_id: 1852931568]:User: /start
+Bot: Привет! Доступные команды:
+Вспомогательные:
+  /weather <город> — Прогноз погоды
+  /map <локация> — Координаты локации + карта
+  /translate <текст> — Перевод текста на русский
+  /affirmation — Случайная аффирмация
+Основные:
+  /movie <название> — Подробнее о фильме
+  /most_wanted — Ожидаемые фильмы месяца
+2025-06-10 18:23:27,484 - [user_id: 1852931568]:User: /start
+Bot: Привет! Доступные команды:
+Вспомогательные:
+  /weather <город> — Прогноз погоды
+  /map <локация> — Координаты локации + карта
+  /translate <текст> — Перевод текста на русский
+  /affirmation — Случайная аффирмация
+Основные:
+  /movie <название> — Подробнее о фильме
+  /most_wanted — Ожидаемые фильмы месяца
+2025-06-10 18:28:01,614 - [user_id: 1852931568]:User: /weather
+Bot: Укажите город: /weather <город>
+2025-06-10 18:28:13,725 - [user_id: 1852931568]:User: /weather Кемерово
+Bot: Погода в Кемерово:
+Ясно
+🌡 Температура: *23.83°C*
+🌡 Ощущается как *23.47°C*
+
+💦 Влажность: *46%*
+🌫 Давление: *1015 гПа*
+
+💨 Скорость ветра: *4 м/с*
+↗️ Направление: *260°*
+2025-06-10 18:30:44,014 - [user_id: 1852931568]:User: /weather староочаковск
+Bot: Город не найден.
+2025-06-10 18:31:54,331 - [user_id: 1852931568]:User: /help
+Bot: Привет! Доступные команды:
+Вспомогательные:
+  /weather <город> — Прогноз погоды
+  /map <локация> — Координаты локации + карта
+  /translate <текст> — Перевод текста на русский
+  /affirmation — Случайная аффирмация
+Основные:
+  /movie <название> — Подробнее о фильме
+  /most_wanted — Ожидаемые фильмы месяца
+2025-06-10 18:33:43,193 - [user_id: 1852931568]:User: /map
+Bot: Укажите город, адрес или название заведения: /map <локация>
+2025-06-10 18:34:01,942 - [user_id: 1852931568]:User: /map кинотеатр космос, кемерово
+Bot: Координаты кинотеатр космос, кемерово: 55.3465561, 86.0815820
+2025-06-10 18:34:26,095 - [user_id: 1852931568]:User: /map цхлаоаивтфдм
+Bot: Не нашлось :с.
+2025-06-10 18:37:11,750 - [user_id: 1852931568]:User: /translate I'm so happy right now ☺️
+Bot: Источник:
+I'm so happy right now ☺️
+
+Перевод:
+Я так счастлива прямо сейчас ☺️
+2025-06-10 18:37:25,559 - [user_id: 1852931568]:User: /translate
+Bot: Введите текст для перевода.
+2025-06-10 18:37:40,968 - [user_id: 1852931568]:User: /translate odejebbekskdjdbdbdwbwn d d f f d widow d d eiw w e d
+Bot: Источник:
+odejebbekskdjdbdbdwbwn d d f f d widow d d eiw w e d
+
+Перевод:
+odebbekskdjdbdbdwbwn d d f d widow d d eiw w e d
+2025-06-10 18:40:02,020 - [user_id: 1852931568]:User: /affirmation
+Bot: You know more than you knew yesterday
+
+-=-=-=-=-На русском-=-=-=-=-
+
+Вы знаете больше, чем знали вчера.
+2025-06-10 18:40:09,933 - [user_id: 1852931568]:User: /affirmation fciyxiyxhicu  iycicky g  y I think it it
+Bot: You're a smart cookie
+
+-=-=-=-=-На русском-=-=-=-=-
+
+Ты умная печенька
+2025-06-10 18:42:12,588 - [user_id: 1852931568]:User: /most_wanted
+Bot: Фильмы месяца (стр. 1/6):
+
+🎬 [Ateez World Tour [Towards the Light: Will to Power] в Сеуле](https://www.kinopoisk.ru/film/8055465/) (2024) 126 мин.
+📆 Дата премьеры: 2025-06-04
+[Купить билет 🎟](https://www.kinopoisk.ru/film/8055465/afisha/city/1/)
+
+🎬 [Ненависть](https://www.kinopoisk.ru/film/9448/) (1995) 98 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/9448/afisha/city/1/)
+
+🎬 [Балерина](https://www.kinopoisk.ru/film/1047492/) (2025) 124 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/1047492/afisha/city/1/)
+
+🎬 [Гадкая сестра](https://www.kinopoisk.ru/film/7229988/) (2025) 109 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7229988/afisha/city/1/)
+
+🎬 [Жизнь Чака](https://www.kinopoisk.ru/film/5406956/) (2024) 110 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/5406956/afisha/city/1/)
+
+🎬 [Копы в законе](https://www.kinopoisk.ru/film/7411831/) (2025) 87 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7411831/afisha/city/1/)
+
+🎬 [Поле чудес](https://www.kinopoisk.ru/film/6062449/) (2025) 90 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6062449/afisha/city/1/)
+
+🎬 [Заклятие. Демон внутри](https://www.kinopoisk.ru/film/1292096/) (2024) 88 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/1292096/afisha/city/1/)
+
+🎬 [Самозванцы](https://www.kinopoisk.ru/film/7526672/) (2024) 90 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/7526672/afisha/city/1/)
+
+🎬 [Джамбо и маленькое привидение](https://www.kinopoisk.ru/film/6638229/) (2025) 102 мин.
+📆 Дата премьеры: 2025-06-05
+[Купить билет 🎟](https://www.kinopoisk.ru/film/6638229/afisha/city/1/)
+
+
+2025-06-10 18:45:29,132 - [user_id: 1852931568]:User: /movie
+Bot: Укажите название фильма: /movie <название>
+2025-06-10 18:45:55,611 - [user_id: 1852931568]:User: /movie Война миров
+Bot: Ошибка соединения с сервером...
+2025-06-10 18:46:02,611 - [user_id: 1852931568]:User: /movie алзулцтутуту ка
+Bot: Фильм не найден.

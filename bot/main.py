@@ -1,10 +1,9 @@
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, CallbackQueryHandler
-from commands import *
-import os
+from bot.logic.commands import *
+from config.settings import bot_token
 
 def main():
-    token = os.getenv("TG_SEMESTRY_BOT_API")
-    app = ApplicationBuilder().token(token).build()
+    app = ApplicationBuilder().token(bot_token).build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("weather", weather))
     app.add_handler(CommandHandler("movie", movie))
